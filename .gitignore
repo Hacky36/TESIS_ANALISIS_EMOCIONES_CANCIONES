@@ -1,0 +1,22 @@
+# Datos (no se suben a git)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Modelos y checkpoints
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Varios
+.DS_Store
+.env
