@@ -1,0 +1,58 @@
+[
+  {
+    "epoca": 1,
+    "segundos": 82.0,
+    "perdida_reg": 0.13327683933054518,
+    "perdida_cls": null,
+    "lotes_cls": 0,
+    "val_mse_valencia": 0.12832664729974422,
+    "val_pearson_valencia": 0.6159850258469802,
+    "val_r2_valencia": 0.3724340532362319,
+    "val_mse_activacion": 0.05147844746817478,
+    "val_pearson_activacion": 0.47385832689372065,
+    "val_r2_activacion": 0.12578140039189267,
+    "val_mse_promedio": 0.0899025473839595
+  },
+  {
+    "epoca": 2,
+    "segundos": 82.0,
+    "perdida_reg": 0.08344429326078863,
+    "perdida_cls": null,
+    "lotes_cls": 0,
+    "val_mse_valencia": 0.09655215616701,
+    "val_pearson_valencia": 0.7282249517181443,
+    "val_r2_valencia": 0.5278233588110457,
+    "val_mse_activacion": 0.04289037551352672,
+    "val_pearson_activacion": 0.5657730046366406,
+    "val_r2_activacion": 0.27162597432096514,
+    "val_mse_promedio": 0.06972126584026836
+  },
+  {
+    "epoca": 3,
+    "segundos": 81.7,
+    "perdida_reg": 0.060050431176385456,
+    "perdida_cls": null,
+    "lotes_cls": 0,
+    "val_mse_valencia": 0.11412581063235701,
+    "val_pearson_valencia": 0.7204780563438,
+    "val_r2_valencia": 0.44188152728415897,
+    "val_mse_activacion": 0.04424030789085312,
+    "val_pearson_activacion": 0.582646164887621,
+    "val_r2_activacion": 0.24870111837612496,
+    "val_mse_promedio": 0.07918305926160507
+  },
+  {
+    "epoca": 4,
+    "segundos": 82.1,
+    "perdida_reg": 0.04911424595537076,
+    "perdida_cls": null,
+    "lotes_cls": 0,
+    "val_mse_valencia": 0.1062058687406034,
+    "val_pearson_valencia": 0.7270035515667466,
+    "val_r2_valencia": 0.4806130451426661,
+    "val_mse_activacion": 0.043582913515770094,
+    "val_pearson_activacion": 0.5856431568076569,
+    "val_r2_activacion": 0.2598651378491409,
+    "val_mse_promedio": 0.07489439112818674
+  }
+]

@@ -1,0 +1,17 @@
+# modelos entrenados (más de 1 GB cada uno)
+*.pt
+*.bin
+*.safetensors
+
+# datos: solo se sube lo que es trabajo propio
+datos/*
+!datos/merge_es.csv
+!datos/cache_traduccion.json
+!datos/control_calidad_muestra.csv
+
+# archivos de prueba
+*_prueba*
+
+# cachés
+.ipynb_checkpoints/
+__pycache__/

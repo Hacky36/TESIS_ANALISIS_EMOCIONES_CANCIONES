@@ -1,0 +1,50 @@
+{
+  "mse_valencia": 0.09049590319655061,
+  "pearson_valencia": 0.7400620624731281,
+  "r2_valencia": 0.5468637624441071,
+  "mse_activacion": 0.038563414106858235,
+  "pearson_activacion": 0.6297725212220251,
+  "r2_activacion": 0.390850959125968,
+  "mse_promedio": 0.06452965865170443,
+  "exactitud_cuadrante": 0.6979166666666666,
+  "f1_macro_cuadrante": 0.7007779952509334,
+  "matriz_confusion": [
+    [
+      53,
+      2,
+      2,
+      32
+    ],
+    [
+      6,
+      80,
+      16,
+      5
+    ],
+    [
+      2,
+      1,
+      66,
+      23
+    ],
+    [
+      7,
+      1,
+      19,
+      69
+    ]
+  ],
+  "semilla": 43,
+  "mejor_val_mse": 0.07135910053231634,
+  "hiperparametros": {
+    "lr": 2e-05,
+    "weight_decay": 0.01,
+    "warmup": 0.1,
+    "batch_size": 16,
+    "epocas": 4,
+    "max_len": 512,
+    "dropout": 0.1,
+    "p": 1.0,
+    "micro_lote": 4
+  }
+}
